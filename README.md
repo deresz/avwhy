@@ -31,3 +31,5 @@ TODO: implement more engines. It is very easy - just find a regexp for scanner
 output and the command line for invoking the scanner, then create a new class
 that will inherrit from AVscanner and implement 3 short methods + constructor
 (please see examples for McAfee and MS). 
+
+For more info see this link: http://www.signal11.eu/en/research/articles/avwhy.html
